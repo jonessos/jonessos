@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jonessos
+- 👋 Hi, I’m Jones
 - 👀 I’m interested in learning new programming languages and technologies
-- 🌱 I’m currently learning by practicing on [HackerRank](https://www.hackerrank.com/jonessos)
 - 💞️ I’m looking to collaborate on any C Projects that piques my interest
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/jonessos/)
